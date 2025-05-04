@@ -1,4 +1,4 @@
-Date,Start Period,End Period,GHI - W/m^2,Barometer - hPa,Temp - °C,Hum - %,Dew Point - °C,Wet Bulb - °C,Avg Wind Speed - km/h,Rain - mm,High Rain Rate - mm/h,UV Index,Wind Run - km,Month of Year,Hour of Day,Solar Zenith Angle,GHI_lag (t-1),Daytime
+Date,Start Period,End Period,GHI - W/m^2,Barometer - hPa,Temp - Â°C,Hum - %,Dew Point - Â°C,Wet Bulb - Â°C,Avg Wind Speed - km/h,Rain - mm,High Rain Rate - mm/h,UV Index,Wind Run - km,Month of Year,Hour of Day,Solar Zenith Angle,GHI_lag (t-1),Daytime
 "March 07, 2024",0:00:00,1:00:00,0,1008.092308,26.61538462,78.30769231,22.38461538,23.38461538,8.461538462,0,0,0,-0.3,3,1,165.01983,0,0
 "March 07, 2024",1:00:00,2:00:00,0,1007.646154,26,80.92307692,23,24,6.461538462,0,0,0,-0.4,3,2,150.1518263,0,0
 "March 07, 2024",2:00:00,3:00:00,0,1007.338462,26,80.92307692,23,23.84615385,4.846153846,0,0,0,0.4,3,3,135.266582,0,0
